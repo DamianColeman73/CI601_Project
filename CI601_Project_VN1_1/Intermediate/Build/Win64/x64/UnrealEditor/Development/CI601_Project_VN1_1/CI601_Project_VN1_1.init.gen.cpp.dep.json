@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\damia\\downloads\\ci601_project_vn1_1 (2)\\ci601_project_vn1_1\\intermediate\\build\\win64\\unrealeditor\\inc\\ci601_project_vn1_1\\uht\\ci601_project_vn1_1.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\damia\\downloads\\ci601_project_vn1_1 (2)\\ci601_project_vn1_1\\intermediate\\build\\win64\\x64\\ci601_project_vn1_1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\damia\\downloads\\ci601_project_vn1_1 (2)\\ci601_project_vn1_1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ci601_project_vn1_1\\definitions.ci601_project_vn1_1.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

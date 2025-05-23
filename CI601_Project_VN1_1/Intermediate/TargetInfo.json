@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CI601_Project_VN1_1",
+			"Path": "..\\Source\\CI601_Project_VN1_1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CI601_Project_VN1_1Editor",
+			"Path": "..\\Source\\CI601_Project_VN1_1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
